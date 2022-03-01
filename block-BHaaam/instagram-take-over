@@ -1,0 +1,794 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+<link rel="canonical" href="https://www.fibremood.com/en/instagram-take-over" />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<script src="https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="21775c5f-fa3a-4ce2-8d75-4544da1b74bd"></script>
+<script type="text/javascript">
+function OptanonWrapper() { }
+</script>
+<meta name="format-detection" content="telephone=no" />
+<link rel="apple-touch-icon" sizes="180x180" href="/themes/custom/dms_theme/img/fav/apple-touch-icon.png" />
+<link rel="icon" type="image/png" sizes="32x32" href="/themes/custom/dms_theme/img/fav/favicon-32x32.png" />
+<link rel="icon" type="image/png" sizes="16x16" href="/themes/custom/dms_theme/img/fav/favicon-16x16.png" />
+<link rel="manifest" href="/themes/custom/dms_theme/img/fav/site.webmanifest" />
+<link rel="mask-icon" color="#666666" href="/themes/custom/dms_theme/img/fav/safari-pinned-tab.svg" />
+<link rel="shortcut icon" href="/themes/custom/dms_theme/img/fav/favicon.ico" />
+<meta name="msapplication-config" content="/themes/custom/dms_theme/img/fav/browserconfig.xml" />
+<meta name="theme-color" content="#ffffff" />
+<link rel="alternate" hreflang="en" href="https://www.fibremood.com/en/instagram-take-over" />
+<link rel="alternate" hreflang="nl" href="https://www.fibremood.com/nl/instagram-take-over" />
+<link rel="alternate" hreflang="fr" href="https://www.fibremood.com/fr/instagram-take-over" />
+<link rel="alternate" hreflang="de" href="https://www.fibremood.com/de/instagram-take-over" />
+<link rel="alternate" hreflang="es" href="https://www.fibremood.com/es/instagram-take-over" />
+<link rel="revision" href="https://www.fibremood.com/en/instagram-take-over" />
+<link rel="devel-load" href="https://www.fibremood.com/en/devel/node/10684" />
+<link rel="devel-render" href="https://www.fibremood.com/en/devel/node/10684/render" />
+<link rel="devel-definition" href="https://www.fibremood.com/en/devel/node/10684/definition" />
+<link rel="token-devel" href="https://www.fibremood.com/en/node/10684/devel/token" />
+<script src="/sites/default/files/google_tag/google_tag.script.js?r72s5b"></script>
+
+    <title>Instagram take over | Fibre Mood</title>
+    <link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/ajax-progress.module.css?r72s5b" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/align.module.css?r72s5b" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/autocomplete-loading.module.css?r72s5b" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/fieldgroup.module.css?r72s5b" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/container-inline.module.css?r72s5b" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/clearfix.module.css?r72s5b" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/details.module.css?r72s5b" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/hidden.module.css?r72s5b" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/item-list.module.css?r72s5b" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/js.module.css?r72s5b" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/nowrap.module.css?r72s5b" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/position-container.module.css?r72s5b" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/progress.module.css?r72s5b" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/reset-appearance.module.css?r72s5b" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/resize.module.css?r72s5b" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/sticky-header.module.css?r72s5b" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/system-status-counter.css?r72s5b" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/system-status-report-counters.css?r72s5b" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/system-status-report-general-info.css?r72s5b" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/tabledrag.module.css?r72s5b" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/tablesort.module.css?r72s5b" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/tree-child.module.css?r72s5b" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/views/views.module.css?r72s5b" />
+<link rel="stylesheet" media="all" href="/modules/contrib/cacheflush/css/cacheflush.menu.css?r72s5b" />
+<link rel="stylesheet" media="all" href="/modules/contrib/paragraphs/css/paragraphs.unpublished.css?r72s5b" />
+<link rel="stylesheet" media="all" href="/modules/custom/dms_fibremood_profile/css/admin-styles.css?r72s5b" />
+<link rel="stylesheet" media="all" href="/themes/custom/dms_theme/fonts/dmsicons.css?r72s5b" />
+<link rel="stylesheet" media="all" href="/themes/custom/dms_theme/fonts/avenir.css?r72s5b" />
+<link rel="stylesheet" media="all" href="/themes/custom/dms_theme/css/forum.css?r72s5b" />
+<link rel="stylesheet" media="all" href="/themes/custom/dms_theme/css/styles.css?r72s5b" />
+<link rel="stylesheet" media="print" href="/themes/custom/dms_theme/css/print.css?r72s5b" />
+
+    
+<!--[if lte IE 8]>
+<script src="/core/assets/vendor/html5shiv/html5shiv.min.js?v=3.7.3"></script>
+<![endif]-->
+
+  </head>
+  <body class="no-sidebars not-front lang-en logged-out path-node node-type-page node-id-10684 mm-top">
+        <a href="#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    <noscript aria-hidden="true"><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WBVB6L6" height="0" width="0" title="Google Tag Manager"></iframe></noscript>
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div class="wrapper">
+
+
+    <div id="top">
+
+    <div class="container">
+
+            <a href="#" class="mm-toggle mm-toggle--wrapper js-mm-toggle"><i class="fa fa-bars"></i></a>
+      
+        
+
+
+<div id="block-dms-theme-branding" class="block block-system block-system-branding-block">
+  
+    
+        <a href="/en" rel="home">
+      <img src="/themes/custom/dms_theme/logo.png" alt="Home" />
+    </a>
+      
+</div>
+
+
+
+<div class="language-switcher-language-url language-switcher block block-language block-language-blocklanguage-interface" id="block-languageswitcher" role="navigation">
+  
+      <div class="language__title">Language switcher</div>
+    
+      <ul class="links"><li hreflang="en" data-drupal-link-system-path="node/10684" class="en is-active"><a href="/en/instagram-take-over" class="language-link is-active" hreflang="en" data-drupal-link-system-path="node/10684">en</a></li><li hreflang="nl" data-drupal-link-system-path="node/10684" class="nl"><a href="/nl/instagram-take-over" class="language-link" hreflang="nl" data-drupal-link-system-path="node/10684">nl</a></li><li hreflang="fr" data-drupal-link-system-path="node/10684" class="fr"><a href="/fr/instagram-take-over" class="language-link" hreflang="fr" data-drupal-link-system-path="node/10684">fr</a></li><li hreflang="de" data-drupal-link-system-path="node/10684" class="de"><a href="/de/instagram-take-over" class="language-link" hreflang="de" data-drupal-link-system-path="node/10684">de</a></li><li hreflang="es" data-drupal-link-system-path="node/10684" class="es"><a href="/es/instagram-take-over" class="language-link" hreflang="es" data-drupal-link-system-path="node/10684">es</a></li></ul>
+  </div>
+
+
+
+
+<nav role="navigation" aria-labelledby="block-secondarymenuen-menu" id="block-secondarymenuen" class="secundary-menu block block-menu navigation block-system-menublock menu--secondary-menu-en">
+
+  
+    
+
+      
+              <ul class="menu__list">
+                    <li class="menu__item">
+        <a href="https://www.fibremood.com/en/stores">Stores</a>
+              </li>
+                <li class="menu__item">
+        <a href="/en/about-us" data-drupal-link-system-path="node/6556">About us</a>
+              </li>
+                <li class="menu__item">
+        <a href="/en/contact" data-drupal-link-system-path="node/845">Contact</a>
+              </li>
+                <li class="menu__item">
+        <a href="https://fibremood.zendesk.com/hc/nl/categories/360000945152-English" target="_blank">FAQ</a>
+              </li>
+        </ul>
+  
+
+
+  
+</nav>
+
+
+
+<div class="outer_s_wrap">
+
+<div id="block-homesearchfilterblock" class="block block-dms-fibremood-profile block-homesearchfilterblock">
+  
+    
+      <form class="homesearchfilterform" data-drupal-selector="homesearchfilterform" data-msg-required="This field is required." action="/en/instagram-take-over" method="post" id="homesearchfilterform" accept-charset="UTF-8">
+  <div class="js-form-item form-item js-form-type-textfield form-item-search js-form-item-search form-no-label">
+        <input data-drupal-selector="edit-search" data-msg-required="This field is required." data-msg-maxlength="This field field has a maximum length of 128." type="text" id="edit-search" name="search" value="" size="60" maxlength="128" placeholder="Search" class="form-text" />
+
+        </div>
+<input data-drupal-selector="edit-submit" data-msg-required="This field is required." type="submit" id="edit-submit" name="op" value="Search" class="button js-form-submit form-submit" />
+<input autocomplete="off" data-drupal-selector="form-capo73pzoozw9-vkursrku-lrr5o47vy2xekxrd1rku" data-msg-required="This field is required." type="hidden" name="form_build_id" value="form-CAPo73pzoOzW9-VKuRsrKU_LRR5o47vy2xeKxRD1rkU" />
+<input data-drupal-selector="edit-homesearchfilterform" data-msg-required="This field is required." type="hidden" name="form_id" value="HomeSearchFilterForm" />
+
+</form>
+
+  </div>
+
+
+
+
+<nav role="navigation" aria-labelledby="block-tertiarymenuen-menu" id="block-tertiarymenuen" class="tertiary-menu block block-menu navigation block-system-menublock menu--tertiary-menu-en">
+
+  
+    
+
+      
+              <ul class="menu__list">
+                    <li class="menu__item">
+        <a href="/en/get-a-subscription-to-fibre-mood" class="magazine" data-drupal-link-system-path="node/3480">Subscribe now</a>
+              </li>
+        </ul>
+  
+
+
+  
+</nav>
+
+
+
+
+
+<nav role="navigation" aria-labelledby="block-useranonymous-menu" id="block-useranonymous" class="user-menu-anonymous block block-menu navigation block-system-menublock menu--user-anonymous">
+
+  
+    
+
+      
+              <ul class="menu__list">
+                    <li class="menu__item">
+        <a href="/en/user/login?destination=/node/10684" class="login" data-drupal-link-system-path="user/login">Sign in</a>
+              </li>
+                <li class="menu__item">
+        <a href="/en/user/register" class="register" data-drupal-link-system-path="user/register">Join the community</a>
+              </li>
+        </ul>
+  
+
+
+  
+</nav>
+
+</div>
+
+
+
+    </div>
+
+  </div>
+  
+
+
+    <header id="header">
+
+    <div class="container">
+      <div class="header-inner">
+      
+
+        
+
+
+
+<nav role="navigation" aria-labelledby="block-mainmenuen-menu" id="block-mainmenuen" class="main-menu block block-menu navigation block-system-menublock menu--main-menu-en">
+
+  
+    
+
+      
+              <ul class="menu__list">
+                    <li class="menu__item">
+        <a href="https://shop.fibremood.com/en/">Shop</a>
+              </li>
+                <li class="menu__item">
+        <a href="/en/step-by-step-instructions-for-all-our-patterns" data-drupal-link-system-path="node/389">Sewing Patterns</a>
+              </li>
+                <li class="menu__item">
+        <a href="/en/style-suggestions" data-drupal-link-system-path="node/781">Style Suggestions</a>
+              </li>
+                <li class="menu__item menu__item--expanded">
+        <a href="http://www.fibremood.com/en/blog">Blog</a>
+                                <ul class="menu__list">
+                    <li class="menu__item">
+        <a href="/en/blog/people" data-drupal-link-system-path="node/378">People</a>
+              </li>
+                <li class="menu__item">
+        <a href="/en/blog/trends" data-drupal-link-system-path="node/377">Trends</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu__item menu__item--expanded">
+        <a href="/en/your-creations" data-drupal-link-system-path="node/376">Your Creations</a>
+                                <ul class="menu__list">
+                    <li class="menu__item">
+        <a href="/en/your-creations" data-drupal-link-system-path="node/376">Your Creations</a>
+              </li>
+                <li class="menu__item">
+        <a href="/en/jullie-creaties/lets-stick-together" data-drupal-link-system-path="node/8529">Competitions</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu__item">
+        <a href="/en/fm-academy" data-drupal-link-system-path="node/998">FM Academy</a>
+              </li>
+                <li class="menu__item">
+        <a href="/en/linkparty" data-drupal-link-system-path="node/392">Linkparty</a>
+              </li>
+                <li class="menu__item">
+        <a href="/en/sewing-magazines" data-drupal-link-system-path="node/391">Sewing Magazines</a>
+              </li>
+                <li class="menu__item">
+        <a href="http://www.fibremood.com/en/fibre-mood-is-bringing-sewing-class-to-your-living-room">Social Sew Along</a>
+              </li>
+        </ul>
+  
+
+
+  
+</nav>
+
+
+
+
+    </div>
+    </div>
+
+  </header>
+  
+
+
+  
+
+
+    <div id="system">
+
+    <div class="container">
+
+        
+
+
+<div id="block-dms-theme-breadcrumbs" class="block block-system block-system-breadcrumb-block">
+  
+    
+        <nav class="nav__breadcrumb" role="navigation" aria-labelledby="system-breadcrumb">
+    <ul class="breadcrumb__list">
+          <li class="breadcrumb__item">
+                  <a href="/en">Home</a>
+              </li>
+          <li class="breadcrumb__item">
+                  <span>Instagram take over</span>
+              </li>
+        </ul>
+  </nav>
+
+  </div>
+<div data-drupal-messages-fallback class="hidden"></div>
+
+
+
+    </div>
+
+  </div>
+  
+  <main role="main" id="main">
+
+    <a id="main-content" tabindex="-1"></a>
+
+    
+      
+      <div id="content">
+          
+
+
+<div id="block-dms-theme-content" class="block block-system block-system-main-block">
+  
+    
+      
+
+<article data-history-node-id="10684" role="article" class="node node--type-page node--view-mode-full">
+  <header class="node__header container">
+    <h1>Instagram take over</h1>
+  </header>
+
+  <div class="node__content">
+    
+      
+  
+  <section class="paragraph paragraph--type--text-media paragraph--view-mode--default pg-bg--none pg--has-media-right">
+    <div class="container">
+            <div class="pg-text-media__text">
+<h2 class="pg-section__title">
+      Every Saturday a shop takes over Instagram
+  </h2>
+
+
+
+
+
+  <div class="field field--name-field-text field--type-text-long field--label-hidden">
+                  <p><em>Saterdag 8th January 2022</em></p>
+
+<p><em>Meet Aurélie from the fabric shop <a href="https://henryethenriette.com">Henry and Henriette</a> via Story's and Posts on the <a href="https://www.instagram.com/fibremood/">Fibre Mood Instagram</a>.</em></p>
+
+<p><a href="https://www.instagram.com/fibremood/" title="Fibre Mood Instagram"><img alt="Instagram logo" data-entity-type="file" data-entity-uuid="3acade9e-3f23-4644-8b65-0c007aa4971b" src="/sites/default/files/inline-images/instagram-vernieuwt-uiterlijk-en-logo.jpg" /></a></p>
+
+            </div>
+</div>
+  <div class="pg-text-media__media">
+
+
+
+  <div class="field field--name-field-media field--type-entity-reference field--label-hidden">
+                    <img src="/sites/default/files/2022-01/Portrait%20Henry%20et%20Henriette.jpg" width="960" height="960" alt="Aurélie Henry et Henriette" />
+
+
+            </div>
+</div>
+
+        </div>
+  </section>
+
+
+  </div>
+</article>
+
+  </div>
+
+
+      </div>
+
+      
+    
+  </main>
+
+
+
+    <div id="doormat">
+
+      
+
+
+<div class="views-element-container cta block block-views block-views-blockcta-block-1" id="block-views-block-cta-block-1">
+  
+    
+        
+
+
+<div class="view view-cta view-id-cta view-display-id-block_1 js-view-dom-id-d591fb0d85c5f7de9aab29886a00d2f75d0943848694e8c2e08a31dd86c45b08">
+  
+  
+  
+
+  
+    
+
+      <div class="views-rows">    <div class="views-row views-row-first views-row-last views-row-odd">
+    
+<div data-history-node-id="8" role="article" class="node node--type-call-to-action node--view-mode-teaser">
+  
+
+
+
+  <div class="field field--name-field-background-image field--type-entity-reference field--label-hidden">
+                    
+
+
+
+  <div class="field field--name-field-media-image field--type-image field--label-hidden">
+                      <picture>
+                  <source srcset="/sites/default/files/styles/cta_big/public/2019-06/homepagebannerFM01-01.png?itok=rbuj6y1i 1x" media="all and (min-width: 1200px)" type="image/png"/>
+              <source srcset="/sites/default/files/styles/cta_/public/2019-06/homepagebannerFM01-01.png?itok=lKxonHn5 1x" media="all and (min-width: 768px)" type="image/png"/>
+              <source srcset="/sites/default/files/styles/cta_small/public/2019-06/homepagebannerFM01-01.png?itok=GHBWPST4 1x" type="image/png"/>
+                  <img src="/sites/default/files/styles/cta_big/public/2019-06/homepagebannerFM01-01.png?itok=rbuj6y1i" alt="QR Landing" />
+
+  </picture>
+
+
+            </div>
+
+
+            </div>
+
+      <div class="cta__content">
+      <h2>Get in the right Fibre Mood</h2>
+      
+
+
+
+  <div class="field field--name-body field--type-text-with-summary field--label-hidden">
+                  <p><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span lang="EN-GB" xml:lang="EN-GB" xml:lang="EN-GB"><span>Create your wardrobe using our patterns, share your creations, and inspire others</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p>
+<p><a class="btn btn--pink" href="/en/user/register">Register now</a></p>
+
+            </div>
+
+    </div>
+  </div>
+
+  </div>
+</div>
+      
+  
+
+  
+  
+
+  
+  
+</div>
+
+
+  </div>
+
+
+
+  </div>
+  
+
+
+  <footer id="footer">
+
+    <div class="container">
+
+        
+
+
+<div id="block-sitebranding" class="block block-system block-system-branding-block">
+  
+    
+        <a href="/en" rel="home">
+      <img src="/themes/custom/dms_theme/logo.png" alt="Home" />
+    </a>
+      
+</div>
+
+
+
+
+<nav role="navigation" aria-labelledby="block-tertiarymenuen-2-menu" id="block-tertiarymenuen-2" class="tertiary-menu block block-menu navigation block-system-menublock menu--tertiary-menu-en">
+
+  
+    
+
+      
+              <ul class="menu__list">
+                    <li class="menu__item">
+        <a href="/en/get-a-subscription-to-fibre-mood" class="magazine" data-drupal-link-system-path="node/3480">Subscribe now</a>
+              </li>
+        </ul>
+  
+
+
+  
+</nav>
+
+
+
+
+
+<nav role="navigation" aria-labelledby="block-useranonymous-3-menu" id="block-useranonymous-3" class="user-menu-anonymous block block-menu navigation block-system-menublock menu--user-anonymous">
+
+  
+    
+
+      
+              <ul class="menu__list">
+                    <li class="menu__item">
+        <a href="/en/user/login?destination=/node/10684" class="login" data-drupal-link-system-path="user/login">Sign in</a>
+              </li>
+                <li class="menu__item">
+        <a href="/en/user/register" class="register" data-drupal-link-system-path="user/register">Join the community</a>
+              </li>
+        </ul>
+  
+
+
+  
+</nav>
+
+
+
+
+    </div>
+
+  </footer>
+
+
+
+    <div id="bottom">
+
+    <div class="container">
+
+        
+
+
+
+<nav role="navigation" aria-labelledby="block-bottommenu-menu" id="block-bottommenu" class="bottom-menu block block-menu navigation block-system-menublock menu--bottom-menu">
+
+  
+    
+
+      
+              <ul class="menu__list">
+                    <li class="menu__item">
+        <a href="/en/get-a-subscription-to-fibre-mood" data-drupal-link-system-path="node/3480">Subscribe</a>
+              </li>
+                <li class="menu__item">
+        <span>© 2021 Fibre Mood</span>
+              </li>
+                <li class="menu__item">
+        <a href="/en/terms-conditions" data-drupal-link-system-path="node/3">Disclaimer</a>
+              </li>
+                <li class="menu__item">
+        <a href="/en/privacy-and-cookie-policy" data-drupal-link-system-path="node/4">Privacy and Cookie policy</a>
+              </li>
+                <li class="menu__item">
+        <a href="/en/we-are-fibre-mood" data-drupal-link-system-path="node/1510">We are Fibre Mood</a>
+              </li>
+        </ul>
+  
+
+
+  
+</nav>
+
+
+
+
+
+<nav role="navigation" aria-labelledby="block-dmsmenu-menu" id="block-dmsmenu" class="dms-menu block block-menu navigation block-system-menublock menu--dms-menu">
+
+  
+    
+
+      
+              <ul class="menu__list">
+                    <li class="menu__item">
+        <a href="https://aldrin.agency/" target="_blank">Site by Aldrin</a>
+              </li>
+        </ul>
+  
+
+
+  
+</nav>
+
+
+
+
+    </div>
+
+  </div>
+  
+</div>
+
+
+
+<div class="off-canvas">
+
+  <a href="#" class="mm-toggle mm-toggle--offcanvas js-mm-toggle">Close</a>
+
+    
+
+
+<div class="language-switcher-language-url language-switcher--mobile block block-language block-language-blocklanguage-interface" id="block-languageswitcher-2" role="navigation">
+  
+    
+      <ul class="links"><li hreflang="en" data-drupal-link-system-path="node/10684" class="en is-active"><a href="/en/instagram-take-over" class="language-link is-active" hreflang="en" data-drupal-link-system-path="node/10684">en</a></li><li hreflang="nl" data-drupal-link-system-path="node/10684" class="nl"><a href="/nl/instagram-take-over" class="language-link" hreflang="nl" data-drupal-link-system-path="node/10684">nl</a></li><li hreflang="fr" data-drupal-link-system-path="node/10684" class="fr"><a href="/fr/instagram-take-over" class="language-link" hreflang="fr" data-drupal-link-system-path="node/10684">fr</a></li><li hreflang="de" data-drupal-link-system-path="node/10684" class="de"><a href="/de/instagram-take-over" class="language-link" hreflang="de" data-drupal-link-system-path="node/10684">de</a></li><li hreflang="es" data-drupal-link-system-path="node/10684" class="es"><a href="/es/instagram-take-over" class="language-link" hreflang="es" data-drupal-link-system-path="node/10684">es</a></li></ul>
+  </div>
+
+
+
+
+<nav role="navigation" aria-labelledby="block-useranonymous-2-menu" id="block-useranonymous-2" class="user-menu-anonymous--mobile block block-menu navigation block-system-menublock menu--user-anonymous">
+
+  
+    
+
+      
+              <ul class="menu__list">
+                    <li class="menu__item">
+        <a href="/en/user/login?destination=/node/10684" class="login" data-drupal-link-system-path="user/login">Sign in</a>
+              </li>
+                <li class="menu__item">
+        <a href="/en/user/register" class="register" data-drupal-link-system-path="user/register">Join the community</a>
+              </li>
+        </ul>
+  
+
+
+  
+</nav>
+
+
+
+
+
+<nav role="navigation" aria-labelledby="block-mainmenuen-2-menu" id="block-mainmenuen-2" class="main-menu--mobile block block-menu navigation block-system-menublock menu--main-menu-en">
+
+  
+    
+
+      
+              <ul class="menu__list">
+                    <li class="menu__item">
+        <a href="https://shop.fibremood.com/en/">Shop</a>
+              </li>
+                <li class="menu__item">
+        <a href="/en/step-by-step-instructions-for-all-our-patterns" data-drupal-link-system-path="node/389">Sewing Patterns</a>
+              </li>
+                <li class="menu__item">
+        <a href="/en/style-suggestions" data-drupal-link-system-path="node/781">Style Suggestions</a>
+              </li>
+                <li class="menu__item menu__item--expanded">
+        <a href="http://www.fibremood.com/en/blog">Blog</a>
+                                <ul class="menu__list">
+                    <li class="menu__item">
+        <a href="/en/blog/people" data-drupal-link-system-path="node/378">People</a>
+              </li>
+                <li class="menu__item">
+        <a href="/en/blog/trends" data-drupal-link-system-path="node/377">Trends</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu__item menu__item--expanded">
+        <a href="/en/your-creations" data-drupal-link-system-path="node/376">Your Creations</a>
+                                <ul class="menu__list">
+                    <li class="menu__item">
+        <a href="/en/your-creations" data-drupal-link-system-path="node/376">Your Creations</a>
+              </li>
+                <li class="menu__item">
+        <a href="/en/jullie-creaties/lets-stick-together" data-drupal-link-system-path="node/8529">Competitions</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu__item">
+        <a href="/en/fm-academy" data-drupal-link-system-path="node/998">FM Academy</a>
+              </li>
+                <li class="menu__item">
+        <a href="/en/linkparty" data-drupal-link-system-path="node/392">Linkparty</a>
+              </li>
+                <li class="menu__item">
+        <a href="/en/sewing-magazines" data-drupal-link-system-path="node/391">Sewing Magazines</a>
+              </li>
+                <li class="menu__item">
+        <a href="http://www.fibremood.com/en/fibre-mood-is-bringing-sewing-class-to-your-living-room">Social Sew Along</a>
+              </li>
+        </ul>
+  
+
+
+  
+</nav>
+
+
+
+
+
+<nav role="navigation" aria-labelledby="block-secundarymenu-2-menu" id="block-secundarymenu-2" class="secundary-menu--mobile block block-menu navigation block-system-menublock menu--secundary-menu">
+
+  
+    
+
+      
+              <ul class="menu__list">
+                    <li class="menu__item">
+        <a href="/en/calendar" data-drupal-link-system-path="node/368">Calender</a>
+              </li>
+                <li class="menu__item">
+        <a href="/en/stores" data-drupal-link-system-path="node/371">Stores</a>
+              </li>
+                <li class="menu__item">
+        <a href="/en/contact" data-drupal-link-system-path="node/845">Contact</a>
+              </li>
+                <li class="menu__item">
+        <a href="https://fibremood.zendesk.com/hc/nl" target="_blank" title="Frequently Asked Questions">FAQ</a>
+              </li>
+        </ul>
+  
+
+
+  
+</nav>
+
+
+
+
+
+<nav role="navigation" aria-labelledby="block-tertiarymenuen-3-menu" id="block-tertiarymenuen-3" class="tertiary-menu--mobile block block-menu navigation block-system-menublock menu--tertiary-menu-en">
+
+  
+    
+
+      
+              <ul class="menu__list">
+                    <li class="menu__item">
+        <a href="/en/get-a-subscription-to-fibre-mood" class="magazine" data-drupal-link-system-path="node/3480">Subscribe now</a>
+              </li>
+        </ul>
+  
+
+
+  
+</nav>
+
+
+
+
+</div>
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"en\/","currentPath":"node\/10684","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"user":{"uid":0,"permissionsHash":"bd431d543541ec5e2ad49464083264a195fffdcb4a7ccda17971794605fd8940"}}</script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.5.1"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=8.9.20"></script>
+<script src="/core/misc/drupal.js?v=8.9.20"></script>
+<script src="/core/misc/drupal.init.js?v=8.9.20"></script>
+<script src="/core/assets/vendor/picturefill/picturefill.min.js?v=3.0.3"></script>
+<script src="/themes/custom/dms_theme/js/libs/matchheight/jquery.matchheight.min.js?v=0.7.2"></script>
+<script src="/themes/custom/dms_theme/js/matchheight.js?v=0.7.2"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.0/clipboard.min.js"></script>
+<script src="/themes/custom/dms_theme/js/libs/countdown/jquery.countdown.min.js?v=2.2.0"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
+<script src="/themes/custom/dms_theme/js/scripts.js?v=0.1"></script>
+<script src="/themes/custom/dms_theme/js/jquery.autocomplete.js?v=0.1"></script>
+<script src="/themes/custom/dms_theme/js/custom.js?v=0.1"></script>
+<script src="/core/assets/vendor/matchMedia/matchMedia.min.js?v=0.2.0"></script>
+<script src="/modules/custom/dms_fibremood_profile/js/facebook_share.js?r72s5b"></script>
+
+  </body>
+</html>

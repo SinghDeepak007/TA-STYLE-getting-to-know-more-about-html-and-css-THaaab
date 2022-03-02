@@ -1,20 +1,65 @@
-<!---
-
-### Create a blog page having 2 articles.
-
-#### TODO 🚀:
-
-1. Create a blog page having 2 articles.
-2. The sample structure of a page has been shown below.
-
----
-
-![alt text](https://raw.githubusercontent.com/suraj122/AC-STYLE-images/master/html-css/ex3.png)
-
----
-
-- Using a CSS reset is necessary.
-
-- Use appropriate semantic tags and keep the nesting and indentation clean.
-
--->
+<!DOCTYPE <!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Blog with two articles</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="style.css" rel="stylesheet">
+    </head>
+    <body>
+     <header class="main">
+    <div id="info">
+     <span>HOME</span>
+     <span>ABOUT</span>
+     <span>BLOG</span>
+    </div>
+     </header>
+     <section>
+         <article>
+             <div id="color">
+            <h4>NOVEMBER 25 2015</h4>
+             </div>
+             <img src="cat.png" alt="cat sitiing"/>
+             <div id="large">
+             <h1>This Is My First Article</h1>
+             </div>
+             <div class="paragraph">
+             <p>Lorem Ipsum dolor sit amet, consectetur adipisicing elit. Similique presentium quo deserunt, facere eligend
+                voluptatem odit optio recusandae aperlam, quaerat maxime, saplente cum voluptates temporlbus quidem.
+                Repudlandae ad, velit ratione.</p>
+                <p>Lore Ipsum dolor sit amet, consectetur adipisicing elit. Assumenda cupiditate vel voluptatibus unde quidem
+                    magnam beatae lure, odit et nihil corrupt Ipsum similique modi esse quis evenlet ullam quaerat distinctio?</p>
+                    <p>Lorem Ipsum dolor sit amet, consectetur adipisicing elit. Laudantium officils unde consequatur velit suscipit
+                        repudlandae elus natus nihil similique aliquam.</p>
+             </div>
+                        <a href="#">READ MORE</a>
+                        <hr>
+                    </section>
+         </article> 
+         <article>
+                <section>
+                    <div class="size">
+                    <h4>DECEMBER 25 2015</h4>
+                    </div>
+              <img src="puppies.png" alt="cute puppies"/> 
+              <div class="larger">
+                <h1>This Is Another Article</h1>
+              </div>
+              <div class="paragraph2">
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique praesentium quo deserunt, facere eligendI
+                    voluptatem odit optio recusandae aperiam, quaerat maxime, sapient cum voluptates temporibus quidem.
+                    Repudiandae ad, velit ratione.</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda cupiditate vel voluptatibus unde quidem
+                        magnam beatae lure, odit et nihil corrupti ipsum similique modi esse quis eveniet ullam quaerat distinctio?</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium officlis unde consequatur velit suscipit
+                            repudiandae elus natus nihil similique aliquam.</p>
+              </div>
+                            <a href="#">READ MORE</a>
+                </section>
+            </article>
+            <footer class="footer">
+             <span>&copy;</span>
+             <span>AltCampus 2019</span>   
+            </footer>          
+              </body>
+</html>
